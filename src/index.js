@@ -126,7 +126,10 @@ app.get("/account", verifyIfExistsAccountCPF, (req, res) => {
 // Feature: Delete account
 app.delete("/account", verifyIfExistsAccountCPF, (req, res) => {
   const { customer } = req;
-  customers.splice(customer, 1);
+  const indexCustomer = customers.findIndex(
+    (customersIndex) => customersIndex.cpf === customer.cpf
+  );
+  customers.splice(indexCustomer, 1);
   return res.status(204).send();
 });
 //Feature: Get All Accounts
