@@ -10,10 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=04D361&labelColor=000000?color=04D361&style=for-the-badge" alt="PRs welcome!" />
-<img  alt="Repo size"  src="https://img.shields.io/github/repo-size/thiilins/finapi?color=04D361&style=for-the-badge">
-<img  alt="GitHub top language"  src="https://img.shields.io/github/languages/top/thiilins/finapi?color=04d361&style=for-the-badge"> <img  alt="GitHub language count"  src="https://img.shields.io/github/languages/count/thiilins/finapi?color=04d361&style=for-the-badge">
-
-  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/finapi?color=04d361&style=for-the-badge">
+<img  alt="Repo size"  src="https://img.shields.io/github/repo-size/thiilins/finAPI?color=04D361&style=for-the-badge">
+<img  alt="GitHub top language"  src="https://img.shields.io/github/languages/top/thiilins/finAPI?color=04d361&style=for-the-badge"> <img  alt="GitHub language count"  src="https://img.shields.io/github/languages/count/thiilins/finAPI?color=04d361&style=for-the-badge"><img alt="Licença" src="https://img.shields.io/github/license/thiilins/finAPI?color=04d361&style=for-the-badge">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/thiilins/finapi?color=04d361&style=for-the-badge" /> -->
 
@@ -30,9 +28,10 @@
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#clipboard-requisitos">Requisitos</a> &#xa0; | &#xa0;  <a href="#heavy_check_mark-regras-de-negócio">Regras de Negócio</a> &#xa0; | &#xa0;
+  <a href="#clipboard-requisitos">Requisitos</a> &#xa0; | &#xa0;  
+  <a href="#heavy_check_mark-regras-de-negócio">Regras de Negócio</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#warning-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#warning-pré-requisitos"> Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/thiilins" target="_blank">Autor</a>
