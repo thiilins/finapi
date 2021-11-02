@@ -19,12 +19,10 @@
 
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/thiilins/finapi?color=04d361&style=for-the-badge" /> -->
 
-<!-- <h4 align="center">
-	🚧 <strong> Em construção... </strong> 🚧 -->
-</h4>
+
 </p>
 
-<hr>
+
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
