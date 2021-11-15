@@ -40,6 +40,7 @@
 ## :dart: Sobre
 
 Criando uma aplicação - API de finanças, projeto do curso Ignite trilha Nodejs da Rocketseat :rocket:
+Onde será possível aprender e práticar alguns conceitos básicos do NodeJS
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
 
